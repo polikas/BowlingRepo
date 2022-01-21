@@ -1,0 +1,15 @@
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.exe
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.deps.json
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.runtimeconfig.json
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.dll
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\bin\Debug\net6.0\ref\BowlingGame.dll
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.pdb
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.csproj.AssemblyReference.cache
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.AssemblyInfoInputs.cache
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.AssemblyInfo.cs
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.csproj.CoreCompileInputs.cache
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.dll
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\ref\BowlingGame.dll
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.pdb
+C:\Users\polik\source\repos\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.genruntimeconfig.cache
