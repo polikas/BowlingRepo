@@ -2,13 +2,16 @@
 
 public class BowlingGame
 {
-     void PlayBowling()
+     int totalScore = 0;
+
+     public int PlayBowling(int score)
     {
+        //declare variables
         Random rnd = new Random();
         int roll1 = 0;
         int roll2 = 0;
         int roll3 = 0;
-        int score = 0;
+        int tempScore = 0;
         int totalPins = 10;
         string spare = "SPARE";
         string strike = "STRIKE";
@@ -61,22 +64,24 @@ public class BowlingGame
             }
 
 
-
-
-            score = roll1 + roll2 + roll3;
-            Console.WriteLine("Score: " + score);
+            tempScore = roll1 + roll2 + roll3;
+            totalScore += tempScore;
+            Console.WriteLine("Score: " + tempScore);
             totalPins = 10;
             roll2 = 0;
             Console.WriteLine("End of Frame " + frame);
             spareOrStrike = " ";
             Console.WriteLine(" ");
         }
+
+        return totalScore;
     }
 
     public static void Main(string[] args)
     {
         BowlingGame game = new BowlingGame();
 
-        game.PlayBowling();
+        game.PlayBowling(game.totalScore);
+        Console.WriteLine("Total Score: " + game.totalScore);
     }
 }
